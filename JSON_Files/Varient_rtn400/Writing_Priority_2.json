@@ -1,0 +1,68 @@
+{
+     "parameter": [
+          {
+               "reg_num": 32896,
+               "reg_name": "diff_proportionband",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32898,
+               "reg_name": "thermostat2_diff",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32901,
+               "reg_name": "diff_controlmode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32830,
+               "reg_name": "clock_present",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32808,
+               "reg_name": "virtual_probe1select",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32809,
+               "reg_name": "virtual_probe2select",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32810,
+               "reg_name": "percent_calcul_virtualprobeday",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32811,
+               "reg_name": "percent_calcul_virtualprobenight",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          }
+     ]
+}

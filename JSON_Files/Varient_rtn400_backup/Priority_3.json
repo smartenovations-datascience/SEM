@@ -1,0 +1,1772 @@
+{
+     "parameter": [
+          {
+               "reg_num": 32892,
+               "reg_name": "regulation_mode_re",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32893,
+               "reg_name": "regulation_probe1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32894,
+               "reg_name": "thermostat2_regulationprobe",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32904,
+               "reg_name": "sp1_maxvalue",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32905,
+               "reg_name": "sp1_minvalue",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32906,
+               "reg_name": "sp2_maxvalue",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32907,
+               "reg_name": "sp2_minvalue",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32902,
+               "reg_name": "thermostat1_mode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32903,
+               "reg_name": "thermostat2_mode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32912,
+               "reg_name": "mincompress_on_time",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32913,
+               "reg_name": "maxcompress_on_time",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32918,
+               "reg_name": "on_time_faultyprobe",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32919,
+               "reg_name": "off_time_faultyprobe",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32914,
+               "reg_name": "switch_on_delay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32915,
+               "reg_name": "delayafter_switchoff",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32916,
+               "reg_name": "delaybetween_switchon",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32917,
+               "reg_name": "poweron_outdelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32920,
+               "reg_name": "compress2_switchon_delay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33001,
+               "reg_name": "preventilation_time",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33002,
+               "reg_name": "fanmode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32923,
+               "reg_name": "forced_remoteoffset",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32924,
+               "reg_name": "def_probe1select",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32925,
+               "reg_name": "def_probe2select",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32928,
+               "reg_name": "def_mode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32926,
+               "reg_name": "defactivatemode_2probes",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32929,
+               "reg_name": "defcycles_interval",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32932,
+               "reg_name": "defintervalunit",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32933,
+               "reg_name": "defdurationunit",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32927,
+               "reg_name": "definterval_countmode_dct",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32934,
+               "reg_name": "definterval_countmode_doh",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32930,
+               "reg_name": "evap1_deftimeout",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32931,
+               "reg_name": "evap2_deftimeout",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32936,
+               "reg_name": "deftemp_probe1end",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32937,
+               "reg_name": "deftemp_probe2end",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32935,
+               "reg_name": "startdef_tempthreshold",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32938,
+               "reg_name": "reqdefactivate_poweron",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32939,
+               "reg_name": "mincomp_on_off_timebeforedef",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32940,
+               "reg_name": "mindeftime_hotgas",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32941,
+               "reg_name": "hotgas_extracttime_defend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32943,
+               "reg_name": "pumpdowntime_befdef_startup",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32882,
+               "reg_name": "periodicdef_starttime",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32883,
+               "reg_name": "periodicdef_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32884,
+               "reg_name": "periodicdef_intervalduration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32831,
+               "reg_name": "weekend1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32832,
+               "reg_name": "weekend2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32833,
+               "reg_name": "eachevent_customdurationtemp",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32834,
+               "reg_name": "starttime_weekdaydef1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32835,
+               "reg_name": "starttimemins_weekdaydef1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32836,
+               "reg_name": "weekdaydef1_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32837,
+               "reg_name": "weekdaydef1_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32838,
+               "reg_name": "starttime_weekdaydef2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32839,
+               "reg_name": "starttimemins_weekdaydef2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32840,
+               "reg_name": "weekdaydef2_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32841,
+               "reg_name": "weekdaydef2_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32842,
+               "reg_name": "starttime_weekdaydef3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32843,
+               "reg_name": "starttimemins_weekdaydef3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32844,
+               "reg_name": "weekdaydef3_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32845,
+               "reg_name": "weekdaydef3_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32846,
+               "reg_name": "starttime_weekdaydef4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32847,
+               "reg_name": "starttime_mins_weekdaydef4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32848,
+               "reg_name": "weekdaydef4_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32849,
+               "reg_name": "weekdaydef4_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32850,
+               "reg_name": "starttime_weekdaydef5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32851,
+               "reg_name": "starttimemins_weekdaydef5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32852,
+               "reg_name": "weekdaydef5_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32853,
+               "reg_name": "weekdaydef5_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32854,
+               "reg_name": "starttime_weekdaydef6",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32855,
+               "reg_name": "starttimemins_weekdaydef6",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32856,
+               "reg_name": "weekdaydef6_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32857,
+               "reg_name": "weekdaydef6_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32858,
+               "reg_name": "starttime_weekenddef_1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32859,
+               "reg_name": "weekenddef1_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32860,
+               "reg_name": "weekenddef1_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32861,
+               "reg_name": "weekenddef1_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32862,
+               "reg_name": "starttime_weekenddef2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32863,
+               "reg_name": "weekenddef2_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32864,
+               "reg_name": "weekenddef2_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32865,
+               "reg_name": "weekenddef2_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32866,
+               "reg_name": "starttime_weekenddef3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32867,
+               "reg_name": "weekenddef3_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32868,
+               "reg_name": "weekenddef3_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32869,
+               "reg_name": "weekenddef3_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32870,
+               "reg_name": "starttime_weekenddef4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32871,
+               "reg_name": "weekenddef4_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32872,
+               "reg_name": "weekenddef4_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32873,
+               "reg_name": "weekenddef4_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32874,
+               "reg_name": "starttime_weekenddef5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32875,
+               "reg_name": "weekenddef5_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32876,
+               "reg_name": "weekenddef5_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32877,
+               "reg_name": "weekenddef5_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32878,
+               "reg_name": "starttime_weekenddef6",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32879,
+               "reg_name": "weekenddef6_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32880,
+               "reg_name": "weekenddef6_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32881,
+               "reg_name": "weekenddef6_tempend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32944,
+               "reg_name": "evapfanprobe_normalmode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32945,
+               "reg_name": "evapfanprobe_defstage",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32946,
+               "reg_name": "fst_parametermode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32947,
+               "reg_name": "block_fantemp",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32948,
+               "reg_name": "fandiff",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32949,
+               "reg_name": "fanactdelay_aftcompressstart",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32954,
+               "reg_name": "dripping_time",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32952,
+               "reg_name": "evapfanmode_duringdef",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32951,
+               "reg_name": "evap_fanmode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32950,
+               "reg_name": "fanswitchoff_delayaftcompressstop",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32955,
+               "reg_name": "fanontime_in_dutycycle",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32956,
+               "reg_name": "fanofftime_in_dutycycle",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32957,
+               "reg_name": "dutycycleon_time_duringnightmode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32958,
+               "reg_name": "dutycycleoff_time_duringnightmode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32972,
+               "reg_name": "tempalarmprobe1select",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32973,
+               "reg_name": "tempalarmprobe2select",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32974,
+               "reg_name": "parahal_lal_mode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32975,
+               "reg_name": "alarmsetpoint_diff",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32976,
+               "reg_name": "probe1_maxalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32977,
+               "reg_name": "probe1_minalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32978,
+               "reg_name": "probe2_maxalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32979,
+               "reg_name": "probe2_minalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32980,
+               "reg_name": "excludealarmatswitchon",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32982,
+               "reg_name": "excludealarmafterdef",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32981,
+               "reg_name": "alarmsignaldelay_aftclosingdoor",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33026,
+               "reg_name": "opendoor_disabletime",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32983,
+               "reg_name": "la1_ha1_alarmsignaldelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32984,
+               "reg_name": "la2_ha2_alarmsignaldelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32942,
+               "reg_name": "enablealarmatdefend",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32986,
+               "reg_name": "externalalarmswitchoffutility",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33027,
+               "reg_name": "anykey_enablealarmoverride",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33193,
+               "reg_name": "alarmoutput_polarity",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32968,
+               "reg_name": "doorswitch_enablelightrelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32969,
+               "reg_name": "delaydisable_lightrelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32970,
+               "reg_name": "lightkeydisable_lightrelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32985,
+               "reg_name": "doorswitch_turnoffutility",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32987,
+               "reg_name": "digitalinputactionforced",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32988,
+               "reg_name": "di_select_block_releaseresource",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32989,
+               "reg_name": "on_off_compressevapfandelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32990,
+               "reg_name": "on_off_evapfandelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33016,
+               "reg_name": "key_aux_in_lightactive_whenoff",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32768,
+               "reg_name": "sharedprobe",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32769,
+               "reg_name": "displayvalue_shared",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32770,
+               "reg_name": "sendsetpointvalue_whenmodified",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32771,
+               "reg_name": "senddefrequest",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32772,
+               "reg_name": "enddef_mode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32773,
+               "reg_name": "standby_commandsync",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32774,
+               "reg_name": "lightcommand_sync",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32775,
+               "reg_name": "reducedsetpointcommand_sync",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32776,
+               "reg_name": "aux_commandsync",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33028,
+               "reg_name": "dependentdef_timeoutendwait",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32966,
+               "reg_name": "errorallowed_number",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32967,
+               "reg_name": "errorcount_interval",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32962,
+               "reg_name": "deepcooling_setpoint",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32963,
+               "reg_name": "deepcooling_duration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32964,
+               "reg_name": "startdefcycle_waittime",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32891,
+               "reg_name": "energysave_type",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32959,
+               "reg_name": "nightmode_enable",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32908,
+               "reg_name": "offset_sp1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32909,
+               "reg_name": "offset_sp2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32899,
+               "reg_name": "dn1diffenergy_savemode1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32900,
+               "reg_name": "dn2diffenergy_savemode2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32885,
+               "reg_name": "starttimeweekday_energysave",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32886,
+               "reg_name": "weekdayenergysave_starttimemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32887,
+               "reg_name": "weekdayenergy_saveeventduration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32888,
+               "reg_name": "weekendenergy_savestarttime",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32889,
+               "reg_name": "weekend_energysavestart_timemins",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32890,
+               "reg_name": "weekendenergy_saveeventduration",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32991,
+               "reg_name": "regulation_mode_fh",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32993,
+               "reg_name": "frame_heaterperiod",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32994,
+               "reg_name": "frame_heatersetpoint",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32995,
+               "reg_name": "frame_heateroffset",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32996,
+               "reg_name": "frame_heaterband",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32997,
+               "reg_name": "minpercentage",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32998,
+               "reg_name": "maxpercent_dutycycleday",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32999,
+               "reg_name": "maxpercent_dutycycle_night",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33000,
+               "reg_name": "percentduringdef",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33157,
+               "reg_name": "modbus_address",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33152,
+               "reg_name": "baudrate",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33154,
+               "reg_name": "paritymodbus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33003,
+               "reg_name": "keypad_lock",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33004,
+               "reg_name": "password1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33005,
+               "reg_name": "password2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33006,
+               "reg_name": "display_decimalpoint",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32812,
+               "reg_name": "calibration_pb1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32813,
+               "reg_name": "calibration_pb2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32814,
+               "reg_name": "calibration_pb3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32815,
+               "reg_name": "calibration_pb4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32816,
+               "reg_name": "calibration_pb5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33007,
+               "reg_name": "minvalue_displayable",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33008,
+               "reg_name": "maxvalue_displayable",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33009,
+               "reg_name": "blockdisplay_duringdef",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33010,
+               "reg_name": "ddl_releasetimeout",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33011,
+               "reg_name": "c_f_select",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33013,
+               "reg_name": "main_display",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33014,
+               "reg_name": "main_displayon_echo",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32965,
+               "reg_name": "select_haccp_alarmprobe",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32778,
+               "reg_name": "probe_type",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33017,
+               "reg_name": "standby_mode",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32783,
+               "reg_name": "config_inputdi1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32784,
+               "reg_name": "config_inputdi2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32785,
+               "reg_name": "config_inputdi3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32786,
+               "reg_name": "config_inputdi4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32787,
+               "reg_name": "config_inputdi5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32790,
+               "reg_name": "config_inputdi8",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32799,
+               "reg_name": "digitalinputs1_2_unit",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32791,
+               "reg_name": "digitalinput1_activatedelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32792,
+               "reg_name": "digitalinput2_activatedelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32793,
+               "reg_name": "digitalinput3_activatedelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32794,
+               "reg_name": "digitalinput4_activatedelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32795,
+               "reg_name": "digitalinput5_activatedelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32798,
+               "reg_name": "digitalinput8_activatedelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32820,
+               "reg_name": "config_relay1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32821,
+               "reg_name": "config_relay2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32822,
+               "reg_name": "config_relay3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32823,
+               "reg_name": "config_relay4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32824,
+               "reg_name": "config_relay5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32827,
+               "reg_name": "enable_buzzer",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33018,
+               "reg_name": "up_key_config",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33019,
+               "reg_name": "down_key_config",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33020,
+               "reg_name": "esc_key_config",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32800,
+               "reg_name": "config_inputpb1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32801,
+               "reg_name": "config_inputpb2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32802,
+               "reg_name": "config_inputpb3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32803,
+               "reg_name": "config_inputpb4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32804,
+               "reg_name": "config_inputpb5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 33158,
+               "reg_name": "select_preset",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          }
+     ]
+}

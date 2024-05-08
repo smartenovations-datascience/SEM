@@ -1,0 +1,628 @@
+{
+     "parameter": [
+          {
+               "reg_num": 32895,
+               "reg_name": "set_point",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 32897,
+               "reg_name": "thermostat2_setpoint",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 513,
+               "reg_name": "regulation_probe1_ai1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 514,
+               "reg_name": "regulation_probe2_ai2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 515,
+               "reg_name": "temp_alarmprobe1_ai3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 516,
+               "reg_name": "temp_alarmprobe2_ai4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 517,
+               "reg_name": "defrost_probe1_ai5",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 518,
+               "reg_name": "defrost_probe2_ai6",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 519,
+               "reg_name": "evapfan_probe_ai7",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 520,
+               "reg_name": "frame_heaterprobe_ai8",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 523,
+               "reg_name": "haccp_probe_ai11",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 524,
+               "reg_name": "regulation_setpointvalue1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 525,
+               "reg_name": "regulation_setpointvalue2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 543,
+               "reg_name": "dew_pointvalue_rdp",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 527,
+               "reg_name": "display_value_dis",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 528,
+               "reg_name": "calcul_probe_x_vr1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 529,
+               "reg_name": "calcul_probe_x_vr2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 1537,
+               "reg_name": "probe_errorai1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1538,
+               "reg_name": "probe_errorai2",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1539,
+               "reg_name": "probe_errorai3",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1540,
+               "reg_name": "probe_errorai4",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1541,
+               "reg_name": "probe_errorai5",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 544,
+               "reg_name": "cumulative_cooltime",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 545,
+               "reg_name": "cumulativedef_relaytime1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 546,
+               "reg_name": "cumulativedef_relaytime2",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 547,
+               "reg_name": "cooling_cyclesnumber",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 548,
+               "reg_name": "number_of_defrosts",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1544,
+               "reg_name": "lowtemp_alarm1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1545,
+               "reg_name": "hightemp_alarm1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1546,
+               "reg_name": "lowtemp_alarm2",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1547,
+               "reg_name": "hightemp_alarm2",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1548,
+               "reg_name": "dooropen_alarm",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1549,
+               "reg_name": "extalarm_digitalinput",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1550,
+               "reg_name": "preheatinput_regulatoralarm",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1551,
+               "reg_name": "defrost_timeout",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1552,
+               "reg_name": "pressure_switchalarm",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1554,
+               "reg_name": "lowpressure_switchalarm",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1556,
+               "reg_name": "highpressure_switchalarm",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1558,
+               "reg_name": "rta_battery_lowalarm",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1562,
+               "reg_name": "minvolt_thresholdexceed",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 1563,
+               "reg_name": "maxvolt_thresholdexceed",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5121,
+               "reg_name": "standby",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5122,
+               "reg_name": "compress_state1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5123,
+               "reg_name": "compress_state2",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5124,
+               "reg_name": "auxregulator_status",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5125,
+               "reg_name": "defrost_state1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5126,
+               "reg_name": "defrost_state2",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5127,
+               "reg_name": "evapfan_state",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5128,
+               "reg_name": "condfan_state",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5129,
+               "reg_name": "alarm",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5130,
+               "reg_name": "aux_state",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5131,
+               "reg_name": "light_state",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5132,
+               "reg_name": "deep_cooling",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5133,
+               "reg_name": "frame_heater",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5134,
+               "reg_name": "reducedset_regulator",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5135,
+               "reg_name": "energy_saving",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5136,
+               "reg_name": "door_open",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5138,
+               "reg_name": "generic_inputstate",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 5139,
+               "reg_name": "recognizedlan_devicenumber",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2561,
+               "reg_name": "aux_on",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2562,
+               "reg_name": "aux_off",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2563,
+               "reg_name": "device_on",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2564,
+               "reg_name": "device_off",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2565,
+               "reg_name": "activateenergy_savefunction",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2566,
+               "reg_name": "disableenergy_savefunction",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2567,
+               "reg_name": "activate_economy",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2568,
+               "reg_name": "disable_economy",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2569,
+               "reg_name": "lights_on",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2570,
+               "reg_name": "lights_off",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2571,
+               "reg_name": "lock_keypad",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2572,
+               "reg_name": "unlock_keypad",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2573,
+               "reg_name": "activate_manualdefrost",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2576,
+               "reg_name": "activate_forcesetpointoffset",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2577,
+               "reg_name": "disable_forcesetpointoffset",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2578,
+               "reg_name": "enable_deepcooling",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2579,
+               "reg_name": "reset_clock",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 543,
+               "reg_name": "dewpoint_remotevalue1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          },
+          {
+               "reg_num": 2580,
+               "reg_name": "eo_resource1_reset",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "True"
+          }
+     ]
+}

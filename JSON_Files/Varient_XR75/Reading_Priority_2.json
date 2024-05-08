@@ -1,0 +1,84 @@
+{
+     "parameter": [
+          {
+               "reg_num": 768,
+               "reg_name": "clock_menu_access",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 769,
+               "reg_name": "diff",
+               "type": "integer",
+               "value": 13,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 853,
+               "reg_name": "hour",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 854,
+               "reg_name": "minutes",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 855,
+               "reg_name": "day",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 884,
+               "reg_name": "firmware_release",
+               "type": "integer",
+               "value": 56,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 885,
+               "reg_name": "map_code",
+               "type": "integer",
+               "value": 3,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 886,
+               "reg_name": "set_point",
+               "type": "integer",
+               "value": 23,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_name": "created_on",
+               "value": "TIMESTAMP'2023-6-8T5:38:8.119894'"
+          },
+          {
+               "reg_name": "modified_on",
+               "value": "TIMESTAMP'2023-6-8T5:38:8.141717'"
+          }
+     ]
+}

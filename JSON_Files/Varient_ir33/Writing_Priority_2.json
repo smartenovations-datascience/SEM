@@ -1,0 +1,212 @@
+{
+     "parameter": [
+          {
+               "reg_num": 117,
+               "reg_name": "probemeasurestable",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 118,
+               "reg_name": "probedispstable",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 208,
+               "reg_name": "def1day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 209,
+               "reg_name": "def 1hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "210",
+               "reg_name": "def1minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "211",
+               "reg_name": "def2day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "212",
+               "reg_name": "def2hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "213",
+               "reg_name": "def2minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "214",
+               "reg_name": "def3day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "215",
+               "reg_name": "def3hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "216",
+               "reg_name": "def3minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "217",
+               "reg_name": "def4day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "218",
+               "reg_name": "def4hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "219",
+               "reg_name": "def4minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 220,
+               "reg_name": "def5day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "221",
+               "reg_name": "def5hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 222,
+               "reg_name": "def5minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 223,
+               "reg_name": "def6day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "224",
+               "reg_name": "def6hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 225,
+               "reg_name": "def6minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 226,
+               "reg_name": "def7day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 227,
+               "reg_name": "def7hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 228,
+               "reg_name": "def7minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 229,
+               "reg_name": "def8day",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 230,
+               "reg_name": "def8hour",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "231",
+               "reg_name": "def8minute",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          }
+     ]
+}

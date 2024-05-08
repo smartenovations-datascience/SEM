@@ -1,0 +1,876 @@
+{
+     "parameter": [
+          {
+               "reg_num": "16",
+               "reg_name": "set_point",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "17",
+               "reg_name": "differential",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "34",
+               "reg_name": "neutral_zone",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 35,
+               "reg_name": "reversediff",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "128",
+               "reg_name": "maxmintempmonitor",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "21",
+               "reg_name": "maxtempread",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 22,
+               "reg_name": "mintempread",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 23,
+               "reg_name": "enddeftemp_probe2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "24",
+               "reg_name": "enddeftemp_probe3",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 38,
+               "reg_name": "enddeftemp_probe4",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 1,
+               "reg_name": "disp_defprobe1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 2,
+               "reg_name": "disp_defprobe2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 239,
+               "reg_name": "number_defaultparaset",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "169",
+               "reg_name": "ha_alarmnumber",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "172",
+               "reg_name": "alarm1year_ha",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "173",
+               "reg_name": "alarm1month_ha",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "174",
+               "reg_name": "alarm1dayofmonth_ha",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "175",
+               "reg_name": "alarm1hour_ha",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "173",
+               "reg_name": "alarm1minute_ha",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "177",
+               "reg_name": "alarm1duration_ha",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "178",
+               "reg_name": "alarm2year_ha1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "179",
+               "reg_name": "alarm2month_ha1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "180",
+               "reg_name": "alarm2dayofmonth_ha1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "181",
+               "reg_name": "alarm2hour_h2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "179",
+               "reg_name": "alarm2minute_ha1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "183",
+               "reg_name": "alarm2duration_ha1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "184",
+               "reg_name": "alarm3year_ha2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "185",
+               "reg_name": "alarm3month_ha2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "186",
+               "reg_name": "alarm3dayofmonth_ha2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "187",
+               "reg_name": "alarm3hour_ha2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "185",
+               "reg_name": "alarm3minute_ha2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "189",
+               "reg_name": "alarm3duration_ha2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "170",
+               "reg_name": "hf_alarmnumber",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "190",
+               "reg_name": "alarm1year_hf",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "191",
+               "reg_name": "alarm1month_hf",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "192",
+               "reg_name": "alarm1dayofmonth_hf",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "193",
+               "reg_name": "alarm1hour_hf",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "191",
+               "reg_name": "alarm1minute_hf",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "195",
+               "reg_name": "alarm1duration_hf",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "196",
+               "reg_name": "alarm2year_hf1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "197",
+               "reg_name": "alarm2month_hf1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "198",
+               "reg_name": "alarm2dayofmonth_hf1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "199",
+               "reg_name": "alarm2hour_hf1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "197",
+               "reg_name": "alarm2minute_hf1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "201",
+               "reg_name": "alarm2duration_hf1",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 202,
+               "reg_name": "alarm3year_hf2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 203,
+               "reg_name": "alarm3month_hf2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "204",
+               "reg_name": "alarm3daymonth_hf2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 205,
+               "reg_name": "alarm3hour_hf2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 203,
+               "reg_name": "alarm3minute_hf2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 207,
+               "reg_name": "alarm3duration_hf2",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 3,
+               "reg_name": "virtualprobe",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 4,
+               "reg_name": "probe1read",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 5,
+               "reg_name": "probe2read",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 6,
+               "reg_name": "probe3read",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 7,
+               "reg_name": "probe4read",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 6,
+               "reg_name": "di1status",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 7,
+               "reg_name": "di2status",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 1,
+               "reg_name": "compstatusrelay",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 2,
+               "reg_name": "defrelaystatus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 3,
+               "reg_name": "fanrelaystatus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 4,
+               "reg_name": "aux1relaystatus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 5,
+               "reg_name": "aux2relaystatus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "31",
+               "reg_name": "defstatus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "34",
+               "reg_name": "defcallcommand",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 35,
+               "reg_name": "contcyclestatus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 36,
+               "reg_name": "contcyclecallcommand",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 37,
+               "reg_name": "doorstatus",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 60,
+               "reg_name": "aux_activatecommand",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "61",
+               "reg_name": "light_activatecommand",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 62,
+               "reg_name": "controller_on_off",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "110",
+               "reg_name": "cmdfreqreq_comphz",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 259,
+               "reg_name": "cmdfreqreq_comprpm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 260,
+               "reg_name": "compfreqfeedback_inverterrpm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 9,
+               "reg_name": "virtualprobefaultalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "10",
+               "reg_name": "probe1faultalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 11,
+               "reg_name": "probe2faultalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "12",
+               "reg_name": "probe3faultalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "13",
+               "reg_name": "probe4faultalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 14,
+               "reg_name": "probe5faultalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "15",
+               "reg_name": "lowtempalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "16",
+               "reg_name": "hightempalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "17",
+               "reg_name": "immediateextalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "18",
+               "reg_name": "delayedextalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "19",
+               "reg_name": "evap1deftimeoutalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 20,
+               "reg_name": "evap2deftimeoutalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "21",
+               "reg_name": "pumpdowntimeoutalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 22,
+               "reg_name": "lowpressalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 23,
+               "reg_name": "highcondtempprealarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "24",
+               "reg_name": "highcondtempalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 25,
+               "reg_name": "dooropenlongalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 26,
+               "reg_name": "rtc_error",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 27,
+               "reg_name": "controlparaeeprom_error",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 28,
+               "reg_name": "operateparaeeprom_error",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 29,
+               "reg_name": "ha_haccp_alarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 30,
+               "reg_name": "hf_haccp_alarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "40",
+               "reg_name": "hightempevapalarm",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 41,
+               "reg_name": "vcc_alarmvcc_malfn",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "42",
+               "reg_name": "vcc_alarminvertercommerror",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 70,
+               "reg_name": "vcc_statusoverloadprotect",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "71",
+               "reg_name": "vcc_statussetspeeddata_cr",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 72,
+               "reg_name": "vcc_statuscompstopped",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 73,
+               "reg_name": "vcc_alarmstartfail",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": "74",
+               "reg_name": "vcc_alarmoverloadcondition",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 75,
+               "reg_name": "vcc_statusunderspeed",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 76,
+               "reg_name": "vcc_alarmshortcircuit",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 77,
+               "reg_name": "vcc_alarmwrongrotorposition",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 78,
+               "reg_name": "vcc_alarmovertempfail",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          },
+          {
+               "reg_num": 79,
+               "reg_name": "vcc_statussetspeeddata_cs",
+               "type": "integer",
+               "min": 0,
+               "max": 0,
+               "value": 0
+          }
+     ]
+}

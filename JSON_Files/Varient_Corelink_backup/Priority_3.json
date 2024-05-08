@@ -1,0 +1,298 @@
+{
+     "parameter": [
+          {
+               "reg_num": 24678,
+               "reg_name": "glb_paramrefrig_23",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 330,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24736,
+               "reg_name": "glb_paramvalve_1",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 17,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24737,
+               "reg_name": "glb_paramvalve_2",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24738,
+               "reg_name": "glb_paramvalve_3",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 250,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24742,
+               "reg_name": "glb_paramvalve_7",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 17,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24743,
+               "reg_name": "glb_paramvalve_8",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24744,
+               "reg_name": "glb_paramvalve_9",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 250,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24748,
+               "reg_name": "glb_paramvalve_13",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 17,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24749,
+               "reg_name": "glb_paramvalve_14",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24750,
+               "reg_name": "glb_paramvalve_15",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 250,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24757,
+               "reg_name": "glb_paramvalve_22",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24758,
+               "reg_name": "glb_paramvalve_23",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24759,
+               "reg_name": "glb_paramvalve_24",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24760,
+               "reg_name": "glb_paramvalve_25",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24761,
+               "reg_name": "glb_paramvalve_26",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24762,
+               "reg_name": "glb_paramvalve_27",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24766,
+               "reg_name": "glb_paramvalve_31",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 30,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24767,
+               "reg_name": "glb_paramvalve_32",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24768,
+               "reg_name": "glb_paramvalve_33",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24792,
+               "reg_name": "glb_paramalr_1",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 1,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24801,
+               "reg_name": "glb_paramalr_10",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 900,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24802,
+               "reg_name": "glb_paramalr_11",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": -400,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 24898,
+               "reg_name": "glb_paramoth_3",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 7,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 27141,
+               "reg_name": "glb_dualtempnetwork",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 27142,
+               "reg_name": "glb_enablenetwork",
+               "type": "bool",
+               "max": 0,
+               "min": 0,
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 36876,
+               "reg_name": "glb_parametere2_13",
+               "type": "integer",
+               "max": 0,
+               "min": 0,
+               "value": 93,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_name": "created_on",
+               "value": "TIMESTAMP'2023-6-8T6:39:43.634777'"
+          },
+          {
+               "reg_name": "modified_on",
+               "value": "TIMESTAMP'2023-6-8T6:39:43.637898'"
+          }
+     ]
+}

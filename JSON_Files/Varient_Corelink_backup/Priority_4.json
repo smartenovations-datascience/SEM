@@ -1,0 +1,13 @@
+{
+     "parameter": [
+          {
+               "reg_num": 1,
+               "reg_name": "extra_parameter_1",
+               "type": "integer",
+               "value": 20551,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          }
+     ]
+}

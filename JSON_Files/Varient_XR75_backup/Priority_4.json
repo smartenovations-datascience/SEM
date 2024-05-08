@@ -1,0 +1,526 @@
+{
+     "parameter": [
+          {
+               "reg_num": 0,
+               "reg_name": "extra_parameter_2",
+               "type": "integer",
+               "value": 11320,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1,
+               "reg_name": "extra_parameter_1",
+               "type": "integer",
+               "value": 20992,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 2,
+               "reg_name": "extra_parameter_90",
+               "type": "integer",
+               "value": 13348,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 5,
+               "reg_name": "extra_parameter_5",
+               "type": "integer",
+               "value": -18934,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 6,
+               "reg_name": "extra_parameter_57",
+               "type": "integer",
+               "value": 34,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 7,
+               "reg_name": "extra_parameter_58",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 8,
+               "reg_name": "extra_parameter_59",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 9,
+               "reg_name": "extra_parameter_60",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 532,
+               "reg_name": "extra_parameter_9",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 533,
+               "reg_name": "extra_parameter_10",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 534,
+               "reg_name": "extra_parameter_11",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 545,
+               "reg_name": "extra_parameter_8",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1024,
+               "reg_name": "extra_parameter_6",
+               "type": "integer",
+               "value": -16412,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1025,
+               "reg_name": "extra_parameter_24",
+               "type": "integer",
+               "value": 4864,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1026,
+               "reg_name": "extra_parameter_28",
+               "type": "integer",
+               "value": -16124,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1027,
+               "reg_name": "extra_parameter_23",
+               "type": "integer",
+               "value": 306,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1028,
+               "reg_name": "extra_parameter_34",
+               "type": "integer",
+               "value": 577,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1029,
+               "reg_name": "extra_parameter_43",
+               "type": "integer",
+               "value": 12321,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1030,
+               "reg_name": "extra_parameter_33",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1031,
+               "reg_name": "extra_parameter_45",
+               "type": "integer",
+               "value": 30704,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1032,
+               "reg_name": "extra_parameter_13",
+               "type": "integer",
+               "value": 3341,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1033,
+               "reg_name": "extra_parameter_16",
+               "type": "integer",
+               "value": 2826,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1034,
+               "reg_name": "extra_parameter_17",
+               "type": "integer",
+               "value": 2561,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1035,
+               "reg_name": "extra_parameter_18",
+               "type": "integer",
+               "value": 258,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1036,
+               "reg_name": "extra_parameter_19",
+               "type": "integer",
+               "value": 22834,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1037,
+               "reg_name": "extra_parameter_20",
+               "type": "integer",
+               "value": 1547,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1038,
+               "reg_name": "extra_parameter_22",
+               "type": "integer",
+               "value": 7424,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1039,
+               "reg_name": "extra_parameter_26",
+               "type": "integer",
+               "value": 1566,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1040,
+               "reg_name": "extra_parameter_27",
+               "type": "integer",
+               "value": 256,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1041,
+               "reg_name": "extra_parameter_29",
+               "type": "integer",
+               "value": 7680,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1042,
+               "reg_name": "extra_parameter_30",
+               "type": "integer",
+               "value": 10,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1043,
+               "reg_name": "extra_parameter_31",
+               "type": "integer",
+               "value": 5124,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1044,
+               "reg_name": "extra_parameter_38",
+               "type": "integer",
+               "value": 271,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1045,
+               "reg_name": "extra_parameter_39",
+               "type": "integer",
+               "value": 2314,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1046,
+               "reg_name": "extra_parameter_42",
+               "type": "integer",
+               "value": 3849,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1047,
+               "reg_name": "extra_parameter_44",
+               "type": "integer",
+               "value": 3855,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1048,
+               "reg_name": "extra_parameter_47",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1049,
+               "reg_name": "extra_parameter_48",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1050,
+               "reg_name": "extra_parameter_49",
+               "type": "integer",
+               "value": 9294,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1051,
+               "reg_name": "extra_parameter_50",
+               "type": "integer",
+               "value": 32400,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1052,
+               "reg_name": "extra_parameter_51",
+               "type": "integer",
+               "value": -28528,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1053,
+               "reg_name": "extra_parameter_52",
+               "type": "integer",
+               "value": 9294,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1054,
+               "reg_name": "extra_parameter_53",
+               "type": "integer",
+               "value": 32400,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1055,
+               "reg_name": "extra_parameter_54",
+               "type": "integer",
+               "value": -28528,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1056,
+               "reg_name": "extra_parameter_46",
+               "type": "integer",
+               "value": 2567,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1057,
+               "reg_name": "extra_parameter_14",
+               "type": "integer",
+               "value": -44,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1058,
+               "reg_name": "extra_parameter_15",
+               "type": "integer",
+               "value": 184,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1059,
+               "reg_name": "extra_parameter_21",
+               "type": "integer",
+               "value": 1,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1060,
+               "reg_name": "extra_parameter_25",
+               "type": "integer",
+               "value": 46,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1062,
+               "reg_name": "extra_parameter_32",
+               "type": "integer",
+               "value": 32,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1063,
+               "reg_name": "extra_parameter_35",
+               "type": "integer",
+               "value": 32,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1064,
+               "reg_name": "extra_parameter_37",
+               "type": "integer",
+               "value": -58,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1065,
+               "reg_name": "extra_parameter_36",
+               "type": "integer",
+               "value": 230,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1066,
+               "reg_name": "extra_parameter_40",
+               "type": "integer",
+               "value": -40,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1067,
+               "reg_name": "extra_parameter_41",
+               "type": "integer",
+               "value": 230,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1069,
+               "reg_name": "extra_parameter_12",
+               "type": "integer",
+               "value": 23,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1280,
+               "reg_name": "extra_parameter_4",
+               "type": "integer",
+               "value": 8224,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 1536,
+               "reg_name": "extra_parameter_7",
+               "type": "integer",
+               "value": 33,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          }
+     ]
+}

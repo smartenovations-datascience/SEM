@@ -1,0 +1,509 @@
+{
+     "parameter": [
+          {
+               "reg_num": 256,
+               "reg_name": "probe_r",
+               "type": "integer",
+               "value": 101,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 264,
+               "reg_name": "probe1",
+               "type": "integer",
+               "value": 114,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 265,
+               "reg_name": "probe2",
+               "type": "integer",
+               "value": 7,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 266,
+               "reg_name": "probe3",
+               "type": "integer",
+               "value": 0,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 267,
+               "reg_name": "probe4",
+               "type": "integer",
+               "value": 111,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 512,
+               "reg_name": "device_on_off_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 513,
+               "reg_name": "active_def_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 514,
+               "reg_name": "fast_freeze_on_off_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 515,
+               "reg_name": "keyboard_lock_unlock_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 516,
+               "reg_name": "alarm_mute_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 517,
+               "reg_name": "active_master_def_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 518,
+               "reg_name": "energy_save_on_off_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 519,
+               "reg_name": "dl1",
+               "type": "bool",
+               "min": "False",
+               "max": "True",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 520,
+               "reg_name": "probe1_failure_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 521,
+               "reg_name": "probe2_failure_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 522,
+               "reg_name": "probe3_failure_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 523,
+               "reg_name": "probe4_failure_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 524,
+               "reg_name": "high_air_temp_alarm",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 525,
+               "reg_name": "low_air_temp_alarm",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 526,
+               "reg_name": "high_cond_temp_alarm",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 527,
+               "reg_name": "low_cond_temp_alarm",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 528,
+               "reg_name": "external_alarm_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 529,
+               "reg_name": "server_alarm_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 530,
+               "reg_name": "door_open_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 531,
+               "reg_name": "eeprom_alarm_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 535,
+               "reg_name": "def_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 536,
+               "reg_name": "def2_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 537,
+               "reg_name": "alarm_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 538,
+               "reg_name": "light_on_off_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 539,
+               "reg_name": "fan_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 540,
+               "reg_name": "aux_on_off_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 541,
+               "reg_name": "nuetral_zone_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 542,
+               "reg_name": "comp_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 543,
+               "reg_name": "comp_status2",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 544,
+               "reg_name": "buzzer_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 544,
+               "reg_name": "humidity_fan_off_cmd",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 546,
+               "reg_name": "humidity_fan_on_off_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 547,
+               "reg_name": "holiday_on_off_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 548,
+               "reg_name": "dl2",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "True",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 549,
+               "reg_name": "rtc_data_lost_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 550,
+               "reg_name": "rtc_failure_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 551,
+               "reg_name": "energy_save_status",
+               "min": "False",
+               "max": "True",
+               "type": "bool",
+               "value": "False",
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 879,
+               "reg_name": "probe1_value",
+               "type": "integer",
+               "value": 56,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 880,
+               "reg_name": "probe2_value",
+               "type": "integer",
+               "value": 56,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 881,
+               "reg_name": "probe3_value",
+               "type": "integer",
+               "value": 56,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 882,
+               "reg_name": "probe4_value",
+               "type": "integer",
+               "value": 56,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_num": 883,
+               "reg_name": "real_set_point",
+               "type": "integer",
+               "min": 0,
+               "max": 255,
+               "value": 56,
+               "Access_type": "Read_Write",
+               "factor": 1,
+               "offset": 0
+          },
+          {
+               "reg_name": "created_on",
+               "value": "TIMESTAMP'2023-6-8T5:38:6.745336'"
+          },
+          {
+               "reg_name": "modified_on",
+               "value": "TIMESTAMP'2023-6-8T5:38:6.750463'"
+          }
+     ]
+}
